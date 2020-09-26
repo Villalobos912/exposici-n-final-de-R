@@ -9,4 +9,4 @@ con datos como la altitud o la latitud, y manifiestan la relación entre la vege
 nosotros trabajos con datos del https://www.worldclim.org/data/monthlywth.html  y escogimos la region de  Huanuco para trabajar 3 indices 
 Índice de aridez de Martonne
 Índice de Dantin - Revenga
-Índice de continentalidad compensado por la latitud de Currey 
+Índice de continentalidad compensado por la latitud de Currey.
